@@ -1,0 +1,5 @@
+cd "C:\Users\Vitalik\Desktop\Programming"
+git status
+git add filename
+git commit -m "3 4 5 ...commit"
+git push
