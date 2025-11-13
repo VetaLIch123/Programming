@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Львів",
+        "country": "Україна",
+        "population": 717510,
+        "founded": 1256,
+        "area": 182.0
+    },
+    {
+        "name": "Київ",
+        "country": "Україна",
+        "population": 2967000,
+        "founded": 482,
+        "area": 839.0
+    },
+    {
+        "name": "Варшава",
+        "country": "Польща",
+        "population": 1790658,
+        "founded": 1300,
+        "area": 517.2
+    },
+    {
+        "name": "Прага",
+        "country": "Чехія",
+        "population": 1335000,
+        "founded": 880,
+        "area": 496.0
+    },
+    {
+        "name": "Берлін",
+        "country": "Німеччина",
+        "population": 3645000,
+        "founded": 1237,
+        "area": 891.8
+    }
+]
